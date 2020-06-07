@@ -1,0 +1,5 @@
+{
+    "python.venvPath": "../seqenv/bin/python3",
+    "python.pythonPath": "../seqenv/bin/python3",
+    "python.formatting.autopep8Path": "/home/moutella/.local/bin/autopep8"
+}
